@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Prakhya
 
-🚀 **Full-Stack Developer | AI Enthusiast | Problem Solver**
+🚀 **  ML engineer | Full-Stack Developer | AI Enthusiast | Problem Solver | IOT **
 
 ---
 
