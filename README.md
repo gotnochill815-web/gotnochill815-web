@@ -37,29 +37,7 @@
 
 </div>
 
----
 
-## 🌟 Featured Projects
-
-### 🔥 [Project 1 Name]
-*Brief description of your most impressive project. What problem does it solve? What technologies did you use?*
-
-**Tech Stack:** React, Node.js, MongoDB, AWS  
-**Live Demo:** [Link](#) | **Source Code:** [Link](#)
-
-### 🚀 [Project 2 Name] 
-*Another great project description. Highlight key features and your role in development.*
-
-**Tech Stack:** Next.js, TypeScript, PostgreSQL, Docker  
-**Live Demo:** [Link](#) | **Source Code:** [Link](#)
-
-### 💡 [Project 3 Name]
-*Showcase your AI/ML skills here with relevant projects.*
-
-**Tech Stack:** Python, TensorFlow, FastAPI  
-**Live Demo:** [Link](#) | **Source Code:** [Link](#)
-
----
 
 ## 📈 Activity Metrics
 
