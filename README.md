@@ -1,27 +1,79 @@
-# 👋 Hi, I'm Prakhya
+<!-- Header -->
+<div align="center">
 
-🚀 **  ML engineer | Full-Stack Developer | AI Enthusiast | Problem Solver | IOT **
+```
+██████╗ ██████╗  █████╗ ██╗  ██╗██╗  ██╗██╗   ██╗ █████╗
+██╔══██╗██╔══██╗██╔══██╗██║ ██╔╝██║  ██║╚██╗ ██╔╝██╔══██╗
+██████╔╝██████╔╝███████║█████╔╝ ███████║ ╚████╔╝ ███████║
+██╔═══╝ ██╔══██╗██╔══██║██╔═██╗ ██╔══██║  ╚██╔╝  ██╔══██║
+██║     ██║  ██║██║  ██║██║  ██╗██║  ██║   ██║   ██║  ██║
+╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
+```
+
+### `> Engineering Student · Deep Learning  · National Debater `
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&pause=1000&color=00FFB4&center=true&vCenter=true&width=600&lines=I+build+things+when+they+should+exist.;Deep+Learning+%7C+Biotech+%7C+Full-Stack;National+Debater+%26+Loud+Feminist.;Engineering+the+future%2C+one+model+at+a+time.)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🧬 About Me
 
-### **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+```python
+class Prakhya:
+    pronouns     = "she/her"
+    location     = "Jaipur, India 🇮🇳"
+    role         = "Engineering Student"
+    interests    = ["Deep Learning", "Biotech + AI", "Full-Stack Dev", "IOT"]
+    identity     = ["National Debater 🎤", "Feminist ♀", "Problem Solver", "Builder"]
+    philosophy   = "I build things when I feel like they should exist."
+    currently    = "Exploring the intersection of neural networks & biology"
+```
 
-### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+> **"The future of biology runs on neural networks — and I'm here to write it."**
 
-### **Database & DevOps**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+---
+
+## 🔬 Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
+### 🤖 Deep Learning & AI
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+### Database & DevOps
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+---
+
+## 🧠 Current Focus
+
+```
+┌─────────────────────────────────────────────────────────┐
+│  🔬  Biotech × Deep Learning intersection               │
+│  🧬  Neural networks for biological sequence modeling   │
+│  🏗️  Building full-stack AI-powered applications        │
+│  🎤  Competing at national debate circuits              │
+│  📖  Reading everything about transformers & LLMs       │
+└─────────────────────────────────────────────────────────┘
+```
 
 ---
 
@@ -29,45 +81,45 @@
 
 <div align="center">
 
-![Prakhya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gotnochill815-web&show_icons=true&theme=radical&hide_border=true)
+![Prakhya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gotnochill815-web&show_icons=true&theme=merko&hide_border=true&bg_color=050a0e&title_color=00ffb4&icon_color=b09fff&text_color=8ba8a0)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gotnochill815-web&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gotnochill815-web&layout=compact&theme=merko&hide_border=true&bg_color=050a0e&title_color=00ffb4&text_color=8ba8a0)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=gotnochill815-web&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=gotnochill815-web&theme=dark&hide_border=true&background=050a0e&ring=00ffb4&fire=b09fff&currStreakLabel=00ffb4)
 
 </div>
 
+---
 
+## 🎤 Beyond the Code
 
-## 📈 Activity Metrics
+```
+National Level Debater  ───────────────────────── ♀ Feminist
+        │                                               │
+        ▼                                               ▼
+  Arguing for truth               Advocating for equity in tech
+  with data & logic               and every room I walk into
+```
 
-| Metric | Value |
-|--------|-------|
-| ⭐ **Total Stars Earned** | 3 |
-| 📝 **Total Commits (2024)** | 28 |
-| 🔀 **Total Pull Requests** | 0 |
-| 🐛 **Total Issues** | 0 |
-| 🤝 **Contributed To** | 0 |
+> I believe the loudest thing a woman in tech can do is **keep building.**
 
 ---
 
-## 🎯 Currently Learning
+## 📬 Connect
 
-- **Advanced React Patterns**
-- **Machine Learning Operations (MLOps)**
-- **Cloud Architecture Design**
-- **System Design Principles**
+<div align="center">
 
----
->
+[![Gmail](https://img.shields.io/badge/gotnochill815%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gotnochill815@gmail.com)
+[![GitHub](https://img.shields.io/badge/gotnochill815--web-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gotnochill815-web)
+
+</div>
 
 ---
 
 <div align="center">
 
-### 💬 Quote of the Day
-*"The only way to do great work is to love what you do." - Steve Jobs*
+`// she builds. she debates. she doesn't wait for permission.`
 
-![Visitors](https://komarev.com/ghpvc/?username=gotnochill815-web&color=blueviolet&style=flat-square)
+![Visitor Count](https://komarev.com/ghpvc/?username=gotnochill815-web&color=00ffb4&style=flat-square&label=profile+views)
 
 </div>
